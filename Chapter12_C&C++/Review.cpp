@@ -129,10 +129,4 @@ template <class T>class ShiftedList{
          while(index<0) index+= size;
          return index;
      }
-}
-
-
-
-
-
-
+};
